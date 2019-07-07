@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "needle": "1.3.0",
-    "libxmljs-dom": "0.0.8"
+    "libxmljs-dom": "samogot/libxmljs-dom#patch-2"
   },
   "devDependencies": {
     "jscs": ">=3.0.2",
